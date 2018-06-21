@@ -1,9 +1,9 @@
-# IT4A-Sylver
-A group repository for CSIT-143 Elective II (INTRO TO GAME-DEVELOPMENT)
+# *IT4A-Sylver (Group 5)
 
-Members:
+##    *A group repository for CSIT-143 Elective II (INTRO TO GAME-DEVELOPMENT)
 
-Radjilul, Al-mouier Hamad
-Alvarez, Radzmil
-Apari, Eliza
-Teh, Jenny
+### *Members:
+# *Radjilul, Al-mouier Hamad
+# *Alvarez, Radzmil
+# *Apari, Eliza
+# *Teh, Jenny
