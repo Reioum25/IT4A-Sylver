@@ -1,2 +1,3 @@
 # IT4A-Sylver
-Yes for a work in progress.
+A group repository for CSIT-143 Elective II
+Works in Progress.
